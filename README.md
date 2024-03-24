@@ -16,7 +16,7 @@ Our goal is to revive the magnificent game Technomage from the year 2000 and giv
 - **High Definition textures and models:** We will use high-resolution textures and models to achieve stunning visual quality and bring the game to life.
 
 ## License:
-This project is released under the [License]. For more information about licensing, see the LICENSE.md file.
+This project is released under the [GNU GENERAL PUBLIC LICENSE](https://github.com/CptGummiball/TechnoReMage/blob/main/LICENSE). For more information about licensing, see the LICENSE.md file.
 
 ## Feedback and Contribution:
 We welcome feedback and contributions from the community! If you have suggestions or would like to contribute to the project, please open an issue or create a pull request on GitHub.
